@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13980263157894737" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable/border_button.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable/border_edit_text.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable/circle.xml" value="0.1444078947368421" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable/custom_background.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable/custom_bg.xml" value="0.13980263157894737" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/drawable/popup_background.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/activity_main.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/activity_second.xml" value="0.22" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/activity_stories.xml" value="0.12072368421052632" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/card_view.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/fragment_category.xml" value="0.22" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/fragment_home.xml" value="0.12960526315789472" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/image_item.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/item_photo.xml" value="0.25" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/item_todo.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/popup.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/progress_story.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/progress_view.xml" value="0.12960526315789472" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/layout/recycler_item.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/TakiAcademy/AndroidStudioProjects/TodoList/app/src/main/res/menu/menu.xml" value="0.23157894736842105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
